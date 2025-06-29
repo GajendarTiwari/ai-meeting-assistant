@@ -1,0 +1,11 @@
+# Core dependencies
+selenium
+google-generativeai
+python-dotenv
+openai-whisper
+PyAutoGUI
+requests
+torch
+torchaudio
+
+# Note: smtplib and email are built-in with Python and do not need to be installed
